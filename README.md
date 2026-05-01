@@ -1,3 +1,3 @@
-diff```
+```diff
 ! PRICE DISCOUNT CALCULATOR
 ```
